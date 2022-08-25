@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+We live in a short period of time. it's good to be good
 
 <!--
 **rifatdinc/rifatdinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
