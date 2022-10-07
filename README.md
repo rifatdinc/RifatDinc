@@ -1,6 +1,11 @@
 ### Hi there 👋 
-We live in a short period of time. it's good to be good
 
+We live in a short period of time. it's good to be good
+# Focusing
+  *** 
+  - I'm currently learning English
+  - Learning Kubernetes
+  - Learning Go Lang in deeph
 <!--
 **rifatdinc/rifatdinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
