@@ -7,7 +7,8 @@ I have extensive experience in software development projects as well as network 
 
 
 ## 📫 Get in Touch!
-- Hackerrank [https://www.hackerrank.com/profile/rafidinc41](https://www.hackerrank.com/profile/rafidinc41)
+- Hackerrank [Rifat Dinc Hacker Rank Profile](https://www..com/profile/rafidinc41)
+- Leet Code [Rifat Dinc Leet Code Profile](https://leetcode.com/u/rafidinc41/)
 - Email: [rafidinc41@gmail.com](mailto:rafidinc41@gmail.com)  
 - LinkedIn: [linkedin.com/in/rifatdinc](https://linkedin.com/in/rifatdinc)  
 - GitHub: [github.com/rifatdinc](https://github.com/rifatdinc)
