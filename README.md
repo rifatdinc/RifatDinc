@@ -5,6 +5,13 @@ We live in a short period of time. it's good to be good
 I'm **Rıfat Dinç**, a technology professional specializing in software engineering and network solutions.  
 I have extensive experience in software development projects as well as network infrastructure management.  
 
+
+## 📫 Get in Touch!
+- Hackerrank [https://www.hackerrank.com/profile/rafidinc41](https://www.hackerrank.com/profile/rafidinc41)
+- Email: [rafidinc41@gmail.com](mailto:rafidinc41@gmail.com)  
+- LinkedIn: [linkedin.com/in/rifatdinc](https://linkedin.com/in/rifatdinc)  
+- GitHub: [github.com/rifatdinc](https://github.com/rifatdinc)
+
 ## 🚀 About Me  
 - **Key Expertise:**  
   - Socket programming and microservices architecture  
@@ -25,12 +32,6 @@ I have extensive experience in software development projects as well as network 
 - Developing scalable and performance-oriented systems  
 - Network monitoring and management tools (Zabbix, MikroTik)  
 - Contributing to the open-source community  
-
-
-## 📫 Get in Touch!  
-- Email: [rafidinc41@gmail.com](mailto:rafidinc41@gmail.com)  
-- LinkedIn: [linkedin.com/in/rifatdinc](https://linkedin.com/in/rifatdinc)  
-- GitHub: [github.com/rifatdinc](https://github.com/rifatdinc)  
 
 ## 🛠 Technologies I Work With  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
